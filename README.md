@@ -57,10 +57,10 @@ pawan_Porfolio/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone(https://github.com/pawanprasad2/pawan-portfolio.git)
 
 # Navigate to the folder
-cd your-repo-name
+cd pawan-portfolio
 
 # Install dependencies
 npm install
