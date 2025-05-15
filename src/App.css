@@ -1,0 +1,49 @@
+/* nav bar animations */
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+
+        @keyframes shine {
+          100% {
+            left: 200%;
+          }
+        }
+
+        /* Custom utilities for background position and size */
+        .bg-size-200 {
+          background-size: 200% 100%;
+        }
+        .bg-pos-0 {
+          background-position: 0% 0%;
+        }
+        .bg-pos-100 {
+          background-position: 100% 0%;
+        }
+
+        .animate-shine {
+          animation: shine 1.2s linear forwards;
+        }
+
+
+        /* Aboutme animation */
+
+         @keyframes slow-spin {
+          0% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }
+
+        .animate-slow-spin {
+          animation: slow-spin 10s linear infinite;
+        }
