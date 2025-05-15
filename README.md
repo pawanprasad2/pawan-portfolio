@@ -47,10 +47,15 @@ pawan_Porfolio/
 ├── components/          # Reusable UI components (e.g., Navbar, Hero)                                                          
 
 ├── pages/               # Main sections: Home, Projects, Skills, About, Contact
+
 ├── index.html
+
 ├── App.jsx              # Root React component
+
 ├── tailwind.config.js   # Tailwind config
+
 ├── vite.config.js       # Vite build config
+
 └── package.json
 
 ---
