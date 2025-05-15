@@ -43,7 +43,9 @@ Welcome to my personal portfolio website built with modern tools like **React (F
 ---
 
 pawan_Porfolio/
-├── components/          # Reusable UI components (e.g., Navbar, Hero)
+
+├── components/          # Reusable UI components (e.g., Navbar, Hero)                                                          
+
 ├── pages/               # Main sections: Home, Projects, Skills, About, Contact
 ├── index.html
 ├── App.jsx              # Root React component
