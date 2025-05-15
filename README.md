@@ -6,7 +6,7 @@ Welcome to my personal portfolio website built with modern tools like **React (F
 
 ## 🌐 Live Demo
 
-[Click here to view the live site](builtbypawan.info) <!-- Replace with your actual link -->
+[builtbypawan.info](builtbypawan.info) <!-- Replace with your actual link -->
 
 ---
 
